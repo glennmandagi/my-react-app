@@ -1,0 +1,23 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .box {
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    position: fixed;
+  
+    top: 5em;
+    left: 1em;
+  }
+  
+  .box.otherPosition {
+    left: 10em;
+  }
+  
+  .label.otherPosition {
+    margin-top: 2em;
+  }
+  
